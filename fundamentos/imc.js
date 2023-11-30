@@ -1,6 +1,6 @@
 //Entrada de dados via terminal! 
 
-const colors = require('colors');
+const colors = require('colours');
 const read = require('readline-sync');
 
 console.clear();
