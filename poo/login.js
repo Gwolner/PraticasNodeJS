@@ -6,6 +6,6 @@ class User{
         //encapsulamento
         let _senha = senha;
         this.getSenha = () => _senha;
-        this.setSenha = (novaSenha) => _senha;
+        this.setSenha = (novaSenha) => _senha = novaSenha;
     }
 }
